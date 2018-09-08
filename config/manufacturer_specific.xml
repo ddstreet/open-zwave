@@ -845,6 +845,7 @@
 		<Product type="0053" id="0216" name="WWA-01AA Wireless Water and Freeze Alarm" />
 		<Product type="0213" id="020c" name="WV-01 Automated Water Shut-Off Valve" config="fortrezz/wv01.xml"/>
 		<Product type="0241" id="0300" name="WV-01 Automated Water Shut-Off Valve" config="fortrezz/wv01.xml"/>
+		<Product type="0233" id="aa06" name="WV-01 Automated Water Shut-Off Valve" config="fortrezz/wv01.xml"/>
 		<Product type="0243" id="0216" name="WV-01 Automated Water Shut-Off Valve" config="fortrezz/wv01.xml"/>
 		<Product type="0311" id="0109" name="SSA1 / SSA2 - Siren/Strobe Light Alarm" config="fortrezz/ssa2.xml"/>
 		<Product type="0311" id="010b" name="SSA1 / SSA2 - Siren/Strobe Light Alarm" config="fortrezz/ssa2.xml"/>
